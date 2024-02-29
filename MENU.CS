@@ -15,7 +15,7 @@ namespace CSharpTutorials
             Console.WriteLine("---------------------------------------------------------------------");			
 			Console.WriteLine("Name:RITHIN R");
 			Console.WriteLine("---------------------------------------------------------------------");
-			Console.WriteLine("USN:4MH21CS078");
+			Console.WriteLine("USN:4MH21CS076");
 			Console.WriteLine("---------------------------------------------------------------------");
 			Console.WriteLine("Faculty Name:Victor Ikechukwu Agughasi");
             Console.WriteLine("---------------------------------------------------------------------");
